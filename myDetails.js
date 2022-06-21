@@ -1,8 +1,10 @@
-//function myDetails() {
-//    var myName = "John";
-//    var myAge = "30";
-//    var myDetails = "My name is " + myName + " and I am " + myAge + " years old.";    
-//    return myDetails;
-//}
-//console.log(myDetails());
+// const myDetails = () => {
+//     let myName = "Collins";
+//     let myHeight = 5.6;
+//     let myCountry = "Nigeria";
+//     let myDetails = 'hello 👋 nice to meet you \n' + "My name is " + myName +  " ," + " \nI' m " + myHeight + " feet tall," + "\nand I am from " + myCountry + " 😄😄" + "."
+//     return myDetails;
+// }
+// // console.log(myDetails());
+// alert(myDetails());
 
